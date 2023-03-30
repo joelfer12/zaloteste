@@ -1,0 +1,15 @@
+﻿<Window x:Class="Lab.objetivos_pessoais"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab"
+        mc:Ignorable="d"
+        Title="Objetivos Pessoais" Height="470" Width="301">
+    <Grid>
+        <TextBlock x:Name="tb_peso" HorizontalAlignment="Left" Margin="62,73,0,0" TextWrapping="Wrap" Text="Peso:" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbox_pesoobj" HorizontalAlignment="Left" Margin="121,73,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Meta:" HorizontalAlignment="Left" Margin="161,26,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.304,0.544"/>
+
+    </Grid>
+</Window>

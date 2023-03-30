@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\zalo_teste",
+    "\\zalo_teste\\zalo_teste"
   ],
+  "SelectedNode": "\\zalo_teste\\zalo_teste\\obj",
   "PreviewInSolutionExplorer": false
 }
